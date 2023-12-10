@@ -69,4 +69,4 @@ In short, the client wanted to see **“An analysis of their content categories 
  
  **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
  
-- Video_Presentation : [PPT](https://github.com/ShridhanJadhav/Accenture-Data-Analytics-Virtual-Experience/blob/main/Task_4_%20Present%20to%20the%20Client/Presentation.webm)
+- Video_Presentation : [Video](https://github.com/ShridhanJadhav/Accenture-Data-Analytics-Virtual-Experience/blob/main/Task_4_%20Present%20to%20the%20Client/Presentation.webm)
